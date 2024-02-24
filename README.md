@@ -1,4 +1,4 @@
-# Tetris Game with raylib-library in C++
+# Tetris Game with raylib-library in C++ (25/02/2024)
 ## Objective
 - Learning the basis if raylib and c++
 - Understanding the game logic of tetris
